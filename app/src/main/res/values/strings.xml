@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Thrity Throws</string>
+    <string name="score">Score: %1$d</string>
+    <string name="current_round">Current Round: %1$d</string>
+    <string name="throws_left">Throws left: %1$d</string>
+    <string name="score_type">Scoring: %1$s</string>
+    <string name="round_score">Score this turn: %1$s</string>
+
+
+</resources>
