@@ -5,6 +5,8 @@
     <string name="throws_left">Throws left: %1$d</string>
     <string name="score_type">Scoring: %1$s</string>
     <string name="round_score">Score this turn: %1$s</string>
+    <string name="total_result_round">Score counted with %1$s: %2$d Points</string>
+    <string name="total_score">Total Score: %1$d</string>
 
 
 </resources>
